@@ -1,0 +1,17 @@
+commit 8cb484842e6b41c4ab331fac48fc0917b283d417
+Author: aaron <aaronjimv@gmail.com>
+Date:   Thu Jun 18 11:37:07 2020 -0400
+
+    se modifico el css
+
+commit e2815e0f0934258c000d01234850a0f053f711ef
+Author: aaron <aaronjimv@gmail.com>
+Date:   Thu Jun 18 11:35:25 2020 -0400
+
+    se agrego un nuevo parrafo
+
+commit 6afdcbe5c488914ef2bd0db36699040fd1efecbc
+Author: aaron <aaronjimv@gmail.com>
+Date:   Thu Jun 18 11:31:37 2020 -0400
+
+    iniciando
