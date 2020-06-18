@@ -1,0 +1,20 @@
+*{
+
+
+}
+
+body
+{
+	background-image: url("img/fondo.jpg"); /*imagen de fondo*/
+	background-repeat: no-repeat; 	/*no repetir la imagen*/
+	background-size: 100%;		/*Tamaño que ocupara la imagen*/
+	background-attachment: fixed; /*Para especificar que la imagen de fondo debe ser fijo (no se desplazará con el resto de la página)*/
+	
+}
+
+section
+{
+	width: 100%;
+	background-color: rgba(225,225, 225, 0.8);
+	text-shadow: 0 0 18px 	#000000;	
+}
