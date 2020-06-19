@@ -34,9 +34,16 @@ function calculadora(n1,op,n2,boton)
 							break;
 						}
 	
-				case'/':{ resul=parseFloat(tarea1)/parseFloat(tarea2);
-							alert(resul);
-							break;
+				case'/':{ 
+							if(tarea2 == 0){
+								alert("NO SE PUEDE DIVIDIR ENTRE CERO");
+								break;
+							}
+							else{
+								resul=parseFloat(tarea1)/parseFloat(tarea2);
+								alert(resul);
+								break;
+							}
 						}
 	
 				default:{ alert("ingrese una operacion de las indicadas");
